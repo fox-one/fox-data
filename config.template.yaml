@@ -1,0 +1,10 @@
+mysql:
+  username: root
+  password: 
+  db: pubsrc
+  read: localhost:3306
+  write: localhost:3306
+
+redis:
+  addr: localhost:6379
+  db: 0
